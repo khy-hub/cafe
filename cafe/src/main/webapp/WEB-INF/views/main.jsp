@@ -3,10 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Home</title>
+<title>Main</title>
 </head>
 <body>
-새로고침!!
-${serverTime}
+Main
 </body>
 </html>

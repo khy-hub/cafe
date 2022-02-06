@@ -1,12 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Home</title>
+<title>Index</title>
 </head>
 <body>
-새로고침!!
-${serverTime}
+<h1>Index</h1>
+Page Name : ${PageName}
 </body>
 </html>
